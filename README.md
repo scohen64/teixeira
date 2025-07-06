@@ -7,7 +7,7 @@ It supports embedded images, audio, and video, along with Leaflet TileLayer and 
 
 
 ## Live links (replace with your own)
-- Leaflet Map https://scohen64.github.io/teixeira
+- Leaflet Map [https://scohen64.github.io/teixeira](https://scohen64.github.io/teixeira/#1)
 - Google Sheets template https://docs.google.com/spreadsheets/d/1NBncMpvwcdWmLdIgvcxZMJCreLl_9_3mUSfBEQvSr0s/edit?gid=0#gid=0
 
 ## Create Your Own Migration Path and Send Us the Link to Upload Into the World Sephardic Database
